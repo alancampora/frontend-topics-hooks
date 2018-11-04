@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5em;
+  background-color:#0c1418;
+}
+.commit-container {
+  background-color: #fffce9;
+}
+
+.quote{
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #ab89ff;
+}
+
+.quote__author{
+ color: #00fc48;
+}
+
+.quote__quote{
+ color: #ff6cc6;
+ font-style: italic;
+}
