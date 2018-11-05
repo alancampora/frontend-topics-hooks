@@ -6,7 +6,7 @@ You can see al the videos [here](https://www.youtube.com/channel/UCQ_dGc7VM1kYl1
 
 To keep it simple, the index.js file has a list of component from each lesson. Just uncommment the Component that you want to use. 
 
-then
+And then: 
 `npm run dev`
 
 ## The api's are not working!
