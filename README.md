@@ -1,7 +1,7 @@
 # Frontend Topics - Hooks lessons
 
 This repo will keep all the examples that are shown in the React Advance series for Hooks.
-You can see al the videos (here)[https://www.youtube.com/channel/UCQ_dGc7VM1kYl19K0viWW4A/featured]
+You can see al the videos [here](https://www.youtube.com/channel/UCQ_dGc7VM1kYl19K0viWW4A/featured)
 
 ## How to run the examples?
 To keep it simple, the index.js file has a list of component from each lesson. Just uncommment the Component that you want to use. 
