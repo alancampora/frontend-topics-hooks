@@ -9,9 +9,9 @@ To keep it simple, the index.js file has a list of component from each lesson. J
 And then: 
 `npm run dev`
 
-## The api's are not working!
+## The api's call are not working!
 Due to CORS, you'll need to open your chrome with some flags. For OSX, you can open chrome in this way: 
 
 `"/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --disable-web-security --user-data-dir=~/.chrome-disable-web-security"`
 
-It's nice to have your custom alias to avoid having to recall that string every time you want to open chrome with those flags.
+> It's nice to have your custom alias to avoid having to recall that string every time you want to open chrome with those flags.
